@@ -22,3 +22,6 @@ Incorporated a bar chart to display the contribution of the top 5 states in term
 * Uncovered that clothes constitute the majority of sales (63%) in the category breakdown.
 * Identified printers as the sub-category contributing to the maximum profit ($8.6k).
 * Strategic focus suggested for targeting clothing sales in Maharashtra during the profitable months of January, March, and November.
+## Live Demo
+[Link to Live Demo](https://www.loom.com/share/ddab8e85352849819fa89107571117d1?sid=cd7c377a-566d-4be9-bce1-9c04227c3253)
+

@@ -1,6 +1,6 @@
 # Sales Insights Dashboard: Transforming Data into Actionable Strategies with Power BI
 ## Overview
-Implemented complex parameters, filters, and slicers for an advanced drill-down dashboard, providing deep insights into sales performance. Leveraged various visualization techniques to uncover key trends and facilitate strategic decision-making.
+Implemented a interactive dashboard,providing deep insights into sales performance.Leveraged various visualization techniques to uncover key trends and facilitate strategic decision-making.
 ## Key Features
 ### Dynamic Drill-Down Parameters:
 * Implemented complex parameters for in-depth drill-down within the worksheet.
